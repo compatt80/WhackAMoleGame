@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+outputs/
+WhackAMoleGame_Defense_PPT/
+*.docx
+*.pdf
+*.pptx
+*.user
+*.suo
